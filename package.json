@@ -1,6 +1,5 @@
 {
   "name": "react-workshop",
-  "homepage": "https://react-workshop-example.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
