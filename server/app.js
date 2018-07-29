@@ -2,7 +2,7 @@ const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
 
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 9999;
 
 const app = express();
 
@@ -15,4 +15,5 @@ app.get('*', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`App listening on port ${PORT}!`);
+  console.log(`App listening on port ${PORT}!`
+});
