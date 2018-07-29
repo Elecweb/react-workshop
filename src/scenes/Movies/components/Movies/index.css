@@ -1,0 +1,11 @@
+.movies--wrapper {
+    width: 936px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 40px;
+}
+
+.movies--item {
+    padding: 16px;
+}

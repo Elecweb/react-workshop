@@ -1,0 +1,20 @@
+.header--wrapper {
+    padding-left: 88px;
+    width: 100%;
+    box-sizing: border-box;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url('./popcorn.svg');
+    background-position: 33px 50%;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-color: #00cecc;
+    padding-right: 32px;
+}
+
+.header--wrapper > p, .header--wrapper > span {
+    color: #ffffff;
+    font-size: 18px;
+}

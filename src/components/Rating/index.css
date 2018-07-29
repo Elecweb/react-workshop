@@ -1,0 +1,17 @@
+.rating {
+    height: 24px;
+    padding-left: 28px;
+    background-image: url(./star.svg);
+    background-size: 19px 17px;
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+}
+
+.rating span {
+    color: #a7a7a7;
+    line-height: 1.7;
+}
+
+.rating .point {
+    color: #fdb62f;
+}

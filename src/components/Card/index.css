@@ -1,0 +1,44 @@
+.card {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card--header {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    color: #ff7a6a;
+    margin-bottom: 8px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.card--sub-title {
+    color: #a7a7a7;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.card--image {
+    width: 150px;
+    height: 205px;
+    display: block;
+    object-fit: cover;
+}
+
+.card--image-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.card--rating-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}

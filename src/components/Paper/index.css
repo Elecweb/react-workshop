@@ -1,0 +1,25 @@
+.paper {
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.paper--wrapper--login {
+    width: 480px;
+    height: 240px;
+    padding: 24px;
+}
+
+.paper--wrapper--detail {
+    width: 560px;
+    height: 616px;
+    padding-bottom: 32px;
+    overflow: hidden;
+}
+
+.paper--wrapper--card {
+    width: 280px;
+    height: 350px;
+    padding: 18px;
+}

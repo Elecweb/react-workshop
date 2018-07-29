@@ -1,0 +1,30 @@
+.login {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.login--header {
+    font-size: 32px;
+    text-align: center;
+    color: #ff7a6a;
+    text-align: center;
+    font-weight: normal;
+}
+
+.login--field-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+.login--button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.login--error-wrapper {
+    height: 17px;
+    padding-bottom: 24px;
+}

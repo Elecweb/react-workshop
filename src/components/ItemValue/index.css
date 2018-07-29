@@ -1,0 +1,15 @@
+.item-value {
+
+}
+
+.item-value .key {
+    font-size: 13px;
+    padding-bottom: 8px;
+    color: #00cecc;
+}
+
+.item-value .value {
+    font-size: 14px;
+    font-style: italic;
+    color: #585656;
+}
