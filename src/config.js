@@ -1,1 +1,1 @@
-export const baseUrl = 'https://workshop-movie-api.herokuapp.com';
+export const baseUrl = 'http://localhost:3000';
